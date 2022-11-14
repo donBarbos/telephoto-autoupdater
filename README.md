@@ -7,7 +7,8 @@
 
 ## ℹ️ Description
 
-**_Application allows you to set an profile photo by getting it from a local path or from the generator site_**
+**_Application allows you to set an profile photo by getting it from a local path or from the generator site_**  
+_You can deployment platform like Heroku or single-board like Raspberry Pi for run the app._
 
 <details>
 <summary><em>example list of picture generators</em></summary>
