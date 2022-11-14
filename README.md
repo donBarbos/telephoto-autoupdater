@@ -71,4 +71,4 @@ Distributed under the GPL-3.0 license. See [`LICENSE`](./LICENSE) for more infor
 
 ## 📢 Contact
 
-[donbarbos](https://github.com/donBarbos): t.me/donbarbos
+[donbarbos](https://github.com/donBarbos): [@donBarbos](https://t.me/donbarbos)
