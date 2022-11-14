@@ -1,0 +1,9 @@
+# ignore all files
+**
+
+# exclusion
+!/bot/
+
+!/photos/
+!/.env
+!/requirements.txt

@@ -1,0 +1,8 @@
+[flake8]
+exclude = .git,__pycache__
+
+max-complexity = 8
+max-line-length = 80
+
+application-import-names = bot
+inline-quotes = "
