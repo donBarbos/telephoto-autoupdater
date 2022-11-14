@@ -30,7 +30,7 @@
     ```bash
     cp .env .env.example
     ```
-2. set variables in `.env` file ([see](#-settings) for more information)
+2. set variables in `.env` file ([see](#%EF%B8%8F-settings) for more information)
 
 3. install dependencies
     ```bash
