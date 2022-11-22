@@ -29,7 +29,7 @@ _You can deployment platform like Heroku or single-board like Raspberry Pi for r
 
 1. create a config file `.env` from a template `.env.example`
     ```bash
-    cp .env .env.example
+    cp .env.example .env
     ```
 2. set variables in `.env` file ([see](#%EF%B8%8F-settings) for more information)
 
